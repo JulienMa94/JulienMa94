@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
 I am Julien from Freiburg, Germany.
-I am currently working full time at [Exxeta](https://exxeta.com/) as an IT Consultant, and I'm passionate about Opensource projects, software development and road cycling.
+I am currently working full time at [Exxeta](https://exxeta.com/) as an IT Consultant, and I'm passionate about Opensource projects, software development and road cycling :bicyclist:.
 
 ![js-badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ts-badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,7 +25,7 @@ If I have some spare time I am also working on Liquibase.
 - [Liquibase](https://github.com/liquibase/liquibase)
 - [CorreoMQTT](https://github.com/EXXETA/correomqtt)
 
-<strong> Latest PRs </strong>
+:rocket: <strong> Latest PRs </strong>
 
 [![liquibase pr](lq_pr1.png)](https://github.com/liquibase/liquibase/pull/5456)
 &nbsp;
