@@ -17,14 +17,16 @@ I am currently working full time at [Exxeta](https://exxeta.com/) as an IT Consu
 
 _________________
 
-## 🔭 I’m currently working on
+🔭 <strong> I’m currently working on </strong>
+
 Besides my job I am currently working on an Intellij Plugin for CorreoMQTT to create a better Developer Experience when working in projects with the MQTT Protocol.
 If I have some spare time I am also working on Liquibase.
 
 - [Liquibase](https://github.com/liquibase/liquibase)
 - [CorreoMQTT](https://github.com/EXXETA/correomqtt)
 
-## Latest PRs
+<strong> Latest PRs </strong>
+
 [![liquibase pr](lq_pr1.png)](https://github.com/liquibase/liquibase/pull/5456)
 &nbsp;
 &nbsp;
@@ -32,14 +34,16 @@ If I have some spare time I am also working on Liquibase.
 &nbsp;
 [![liquibase pr](lq_pr2.png)](https://github.com/liquibase/liquibase/pull/5456)
 
-## 🌱 I’m currently learning
+🌱 <strong> I’m currently learning </strong>
+
 - Trying to get better at UX/UI Design
 - Kotlin
 - Neovim
 - Intellij Plugin Development
 - RxJs
 
-## 📫 How to reach me
+📫 <strong> How to reach me </strong>
+
 - [LinkedIn](https://www.linkedin.com/in/julien-marcq-b076b1180/)
 - [Email](mailto:julien.marcq@exxeta.com)
 
