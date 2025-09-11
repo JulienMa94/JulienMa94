@@ -25,15 +25,6 @@ If I have some spare time I am also working on Liquibase.
 - [Liquibase](https://github.com/liquibase/liquibase)
 - [CorreoMQTT](https://github.com/EXXETA/correomqtt)
 
-:rocket: <strong> Latest PRs </strong>
-
-[![liquibase pr](lq_pr1.png)](https://github.com/liquibase/liquibase/pull/5456)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-[![liquibase pr](lq_pr2.png)](https://github.com/liquibase/liquibase/pull/5456)
-
 🌱 <strong> I’m currently learning </strong>
 
 - Trying to get better at UX/UI Design
