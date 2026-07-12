@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
 I am Julien from Freiburg, Germany.
-I am currently working full time at [Exxeta](https://exxeta.com/) as an IT Consultant, and I'm passionate about Opensource projects, software development and road cycling :bicyclist:.
+I am currently working full time at [Agilent Technologies](https://www.agilent.com) as a Software Engineer, and I'm passionate about Opensource projects, software development and road cycling :bicyclist:.
 
 ![js-badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ts-badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,25 +17,17 @@ I am currently working full time at [Exxeta](https://exxeta.com/) as an IT Consu
 
 _________________
 
-🔭 <strong> I’m currently working on </strong>
-
-Besides my job I am currently working on an Intellij Plugin for CorreoMQTT to create a better Developer Experience when working in projects with the MQTT Protocol.
-If I have some spare time I am also working on Liquibase.
+🔭 <strong> Contributed to </strong>
 
 - [Liquibase](https://github.com/liquibase/liquibase)
 - [CorreoMQTT](https://github.com/EXXETA/correomqtt)
 
 🌱 <strong> I’m currently learning </strong>
 
-- Trying to get better at UX/UI Design
-- Kotlin
-- Neovim
-- Intellij Plugin Development
-- RxJs
+- C# / .NET
 
 📫 <strong> How to reach me </strong>
 
 - [LinkedIn](https://www.linkedin.com/in/julien-marcq-b076b1180/)
-- [Email](mailto:julien.marcq@exxeta.com)
 
 ![JulienMa94's Stats](https://github-readme-stats.vercel.app/api?username=JulienMa94&theme=dracula&show_icons=true&hide_border=false&count_private=true)
