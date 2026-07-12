@@ -29,5 +29,3 @@ _________________
 📫 <strong> How to reach me </strong>
 
 - [LinkedIn](https://www.linkedin.com/in/julien-marcq-b076b1180/)
-
-![JulienMa94's Stats](https://github-readme-stats.vercel.app/api?username=JulienMa94&theme=dracula&show_icons=true&hide_border=false&count_private=true)
